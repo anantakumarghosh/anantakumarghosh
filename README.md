@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Ananta
 - 👀 I’m interested in DevOps, Cloud Computing, Web Dev and FOSS.
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps tools and Practices
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
